@@ -6,11 +6,17 @@ Mediante la aplicación, los cuidadores podrán conectarse al Smart Watch se su 
 
 
 Autores:
+
 Mario Giovanni Valdivieso Chávez
+
 Alessandro Franco Sarmiento Mendoza
+
 Ario Joel Chávez Uribe
+
 Renzo Alberto Lenes Chuquicaña
+
 Alan Joaquin Yauri Alcahuamán
+
 Santiago Alonso Gordillo Ramos
 
 Segmentos Objetivo:
