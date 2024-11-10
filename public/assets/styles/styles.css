@@ -13,6 +13,7 @@ header {
   padding: 10px 20px;
   background-color: #C6D4E1;
   font-family: "Poppins";
+  height: 6rem;
 }
 header img {
   max-width: 100px;
@@ -400,14 +401,14 @@ footer nav li {
   margin-top: 5rem;
 }
 .conoce-mas .que-es .img-container {
-  padding-top: 2rem;
+  padding-top: 8rem;
 }
 .conoce-mas .que-es .img-container img {
   margin: 20px;
-  max-width: 18rem;
+  max-width: 35rem;
 }
 .conoce-mas .que-es .text-container {
-  margin-top: 10rem;
+  margin-top: 8rem;
   padding: 20px 0 0px 70px;
   max-width: 40rem;
 }
